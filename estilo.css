@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkalami&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alkalami&family=Noto+Serif+Telugu:wght@900&display=swap');
+*{
+box-sizing: border-box;
+}
+header{
+    background-color: red;
+    width: 100%;
+    height: 350px;
+    text-align: center;
+    font-size: 35px;
+    color: yellow;
+    padding: 10px;
+    font-family: 'Noto Serif Telugu', serif;
+}
+nav{
+    background-color: yellow;
+    width: 20%;
+    float: left;
+    height: 300px;
+    padding: 30px;
+    padding-left: 100px;
+    text-align: center;
+}
+article{
+    background-color: yellow;
+    width: 80%;
+    float: left;
+    padding: 10px;
+    font-size: 20px;
+    height: 300px;
+    font-family: 'Alkalami', serif;
+    color: red;
+}
+article iframe{
+    padding: 0%;
+}
+footer{
+    background-color: red;
+    width: 100%;
+    height: 35%;
+    text-align: center;
+    font-size: 35px;
+    color: yellow;
+    padding: 20px;
+    font-family: 'Noto Serif Telugu', serif;
+}
+footer img{
+    height: 350px;
+    float: left ;
+    padding: 30px;
+}
+footer ul{
+    list-style-type: none;
+    text-align: center;
+    font-size: 10px;
+}
